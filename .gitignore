@@ -15,3 +15,5 @@ src/*.egg-info
 .project
 .pydevproject
 .pydevproject.bak
+
+#Ignore githooks
