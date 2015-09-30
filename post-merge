@@ -9,6 +9,5 @@ check_run() {
 }
 
 
-check_run bower.json "echo *****************Bower file changed. You might have to Run bower install"
 check_run buildout.cfg "echo *****************Buildout config file changed. You might have to Run bin/buildout"
 check_run setup.py "echo *****************setup.py file changed. You might have to Run bin/buildout"
